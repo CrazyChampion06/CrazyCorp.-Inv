@@ -70,13 +70,13 @@ body {
   #LoginBack {
     height: 45px;
     width: 81px;
-    background-image: url(Image/Login.png); 
+    color: rgb(41, 41, 41); 
     margin-left: 25vw;
     margin-top: 15vh;
   }
   
  #Login {
-visibility: inherit;
+
  }
 
 
