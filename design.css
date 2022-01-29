@@ -76,7 +76,7 @@ body {
   }
   
  #Login {
-visibility: collapse;
+visibility: inherit;
  }
 
 
