@@ -44,7 +44,7 @@ body {
     min-height: 100%;
     color: white;
     overflow-x: hidden;
-    background-image: url(Image/Test.jpg);
+    background-image: url(Image/Background.jpg);
     background-repeat:repeat-y;
     padding-left: 30px;
   }
