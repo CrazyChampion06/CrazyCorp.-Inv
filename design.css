@@ -68,8 +68,8 @@ body {
 
   /*Login*/
   #Login {
-    width: 40px;
-    background-image: url(Image/Login-Trans.png); 
+    width: 80px;
+    background-image: url(Image/Login.png); 
     margin-left: 25vw;
     margin-top: 15vh;
   }
