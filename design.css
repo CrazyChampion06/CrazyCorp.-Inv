@@ -69,14 +69,14 @@ body {
   /*Login*/
   #LoginBack {
     height: 45px;
-    width: 100px;
+    width: 81px;
     background-image: url(Image/Login.png); 
     margin-left: 25vw;
     margin-top: 15vh;
   }
   
  #Login {
-visibility: hidden;
+visibility: collapse;
  }
 
 
