@@ -70,13 +70,13 @@ body {
   #LoginBack {
     height: 400px;
     width: 600px;
-    background-image: url(Image/Login.jpg);
+    
     margin-left: 25vw;
     margin-top: 15vh;
   }
   
   #Login {
-    
+    background-image: url(Image/Login.jpg); 
   }
 
 
