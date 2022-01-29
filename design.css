@@ -66,7 +66,29 @@ body {
   }
 
 
+  /*Login*/
+  #LoginBack {
+    height: 400px;
+    width: 600px;
+    
+    margin-left: 25vw;
+    margin-top: 15vh;
+  }
   
+  #Login {
+    
+  }
+
+
+
+
+
+
+
+
+
+
+
 /* Footer */
   #footer {
     background-color: rgb(41, 41, 41);
