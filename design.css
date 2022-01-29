@@ -68,11 +68,8 @@ body {
 
   /*Login*/
   #LoginBack {
-    height: 45px;
-    width: 81px;
-    color: rgb(41, 41, 41); 
-    margin-left: 25vw;
-    margin-top: 15vh;
+    margin-left: 15px;
+    margin-top: 10px;
   }
   
  #Login {
