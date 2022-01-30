@@ -41,6 +41,7 @@ body {
 
 /* Main Block */
   #container {
+    scroll-behavior: smooth;
     min-height: 100%;
     color: white;
     overflow-x: hidden;
